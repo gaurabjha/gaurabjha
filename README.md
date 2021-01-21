@@ -1,4 +1,9 @@
-### Hi there 👋
+### नमस्ते (Namaste)🙏🏻, I'm Gaurab Jha! 
+
+
+Senior Software Engineer at Cerner Healtcare India Pvt Ltd
+I love connecting with different people so if you want to say hi, I’ll be happy to meet you more! 😊
+ 
 
 <!--
 **gaurabjha/gaurabjha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
