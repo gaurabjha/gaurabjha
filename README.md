@@ -5,6 +5,11 @@ Senior Software Engineer at Cerner Healtcare India Pvt Ltd
 I love connecting with different people so if you want to say hi, I’ll be happy to meet you more! 😊
  
 
+<br/><br/>
+[WebPage](https://gaurabjha.github.io/) - a page to see all about me! 🧠 <br/>
+[HellKensi](https://github.com/gaurabjha/HellKensi) - Check my latest Project, 2.5D Game built in Unity ! 📦 <br/>
+[Email](mailto:gaurabkjha@gmail.com) - I'd love to hear, send me an email. 📧 <br/>
+<br/><br/>
 Visitor Count : ![Visitor Count](https://profile-counter.glitch.me/gaurabjha/count.svg)
 
 <!--
